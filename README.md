@@ -11,7 +11,7 @@
 <br>
 
 <!-- NAME / TAGLINE - animated typing -->
-<a href="https://github.com/emmi-lili">
+<a href="https://github.com/MohammedRahim2003">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Emmi+-+Blockchain+Engineer+%26+Tech+Lead;Architecture+of+Wallets+/+Rust+/+Digital+Assets+Infra;Building+here+since+Forever" alt="typing banner">
 </a>
 
