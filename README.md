@@ -20,7 +20,7 @@
 <!-- SOCIALS — LinkedIn stays brand blue (glyph vanishes on custom fills). Others themed. -->
 <a href="https://www.linkedin.com/in/mohammed-rahim-s-1b75292b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/mohammed._rahim?mdxt=MTdwcnBuNWo0M3h5Nw=="><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=aa9bef" alt="Instagram"></a>&nbsp;&nbsp;
-<a href="https://x.com/emmcriptada"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=aa9bef" alt="X"></a>
+
 
 <br>
 
