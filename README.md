@@ -1,4 +1,16 @@
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MohammedRahim2003/MohammedRahim2003/main/dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MohammedRahim2003/MohammedRahim2003/main/light.svg">
+  <img
+    src="https://raw.githubusercontent.com/MohammedRahim2003/MohammedRahim2003/main/light.svg"
+    alt="Mohammed Rahim GitHub Profile Banner">
+</picture>
+
 <p align="center">
   <img src="./assets/neon-banner.svg" width="100%" alt="Mohammed Rahim neon banner" />
 </p>
