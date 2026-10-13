@@ -11,9 +11,6 @@
     alt="Mohammed Rahim GitHub Profile Banner">
 </picture>
 
-<p align="center">
-  <img src="./assets/neon-banner.svg" width="100%" alt="Mohammed Rahim neon banner" />
-</p>
 
 <h1 align="center">⚡ Mohammed Rahim</h1>
 
